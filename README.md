@@ -12,3 +12,8 @@ Repository with practical guide from Max Swarzmuller at udemy and some own djang
 ```
  django-admin startproject mypage
 ```
+
+- start own server
+```
+python3 manage.py runserver
+```
