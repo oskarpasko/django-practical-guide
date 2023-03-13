@@ -10,10 +10,15 @@ Repository with practical guide from Max Swarzmuller at udemy and some own djang
 
 - create new project
 ```
- django-admin startproject mypage
+ django-admin startproject <page-name>
 ```
 
 - start own server
 ```
 python3 manage.py runserver
+```
+
+- create new app
+```
+python3 manage.py startapp <app-name>
 ```
