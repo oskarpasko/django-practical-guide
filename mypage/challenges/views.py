@@ -14,7 +14,7 @@ challenges = {
     "september": "Walk for at least 20 minutes every day!",
     "october": "Holidays!",
     "november": "Walk for at least 20 minutes every day!",
-    "december": "Holidays!"
+    "december": None
 }
 
 # Create your views here.
